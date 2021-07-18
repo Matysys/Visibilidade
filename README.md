@@ -13,3 +13,4 @@ Você pode ver a sua própria informação se estiver logado(a) na sua própria 
 - JavaScript
 - PHP
 - Bootstrap 4
+- Requisição AJAX com JQuery
